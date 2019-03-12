@@ -1,0 +1,20 @@
+
+Fsquid:EmptyStatementUsageCheck§"Remove this empty statement.(ÙôóS
+»%squid:RedundantThrowsDeclarationCheck&"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(‰Û’ç
+¹%squid:RedundantThrowsDeclarationCheck7"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(ï±x
+»%squid:RedundantThrowsDeclarationCheckQ"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(Ò’î„
+»%squid:RedundantThrowsDeclarationCheck~"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(‰Û’ç
+Ksquid:S2864\"4Iterate over the "entrySet" instead of the "keySet".(¸¼ô»
+Lsquid:S2864ˆ"4Iterate over the "entrySet" instead of the "keySet".(¸¼ô»
+Fsquid:S2093U"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ë¢ñãûÿÿÿÿ
+asquid:S2259Æ"DA "NullPointerException" could be thrown; "buffer" is nullable here.(Í…ôîûÿÿÿÿ
+Bsquid:S1168e"&Return an empty array instead of null.(Ï÷µÒÿÿÿÿÿ
+Wsquid:UselessImportCheck"3Remove this unused import 'java.security.Security'.(ÊÖô™
+bsquid:UselessImportCheck">Remove this unused import 'org.apache.http.client.HttpClient'.(¨­—ž
+vsquid:UselessImportCheck"MRemove this unused import 'org.apache.http.impl.client.BasicResponseHandler'.(Óâƒ›þÿÿÿÿ
+asquid:UselessImportCheck">Remove this unused import 'org.apache.http.params.HttpParams'.(¿óìR
+lsquid:UselessImportCheck"CRemove this unused import 'org.apache.http.client.ResponseHandler'.(§ï¡±úÿÿÿÿ
+@squid:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+wsquid:S1149¡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(þÝ¼Ø
+Isquid:S4423¤",Change this code to use a stronger protocol.(ùÆÏ†þÿÿÿÿ

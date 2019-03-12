@@ -1,0 +1,14 @@
+
+Osquid:S1197T"8Move the array designator from the variable to the type.(‹šÕç
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(È¹ùšüÿÿÿÿ
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(‡Ä„þøÿÿÿÿ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(òìæÜ
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(šðÄ‚
+nsquid:S3776."RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(Å´ö®þÿÿÿÿ
+nsquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïãÞ¢ýÿÿÿÿ
+nsquid:S00117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Êøˆøÿÿÿÿ
+isquid:S00117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Æ¤

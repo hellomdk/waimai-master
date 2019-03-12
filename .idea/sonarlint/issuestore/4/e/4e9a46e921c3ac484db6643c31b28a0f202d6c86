@@ -1,0 +1,6 @@
+
+8squid:S1170"!Make this final field static too.(²Ëå’
+ssquid:S00116"[Rename this field "MAPPER_NAMESPACE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ëå’
+_squid:UselessImportCheck"6Remove this unused import 'com.waimai.entity.ElmFood'.(ºà´æøÿÿÿÿ
+Zsquid:UselessImportCheck"6Remove this unused import 'com.waimai.entity.ElmShop'.(Ù¼‚Ô
+Zsquid:UselessImportCheck"6Remove this unused import 'com.waimai.entity.Mycount'.(øéØÁ

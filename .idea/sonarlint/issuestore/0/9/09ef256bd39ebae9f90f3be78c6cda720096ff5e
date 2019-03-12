@@ -1,0 +1,18 @@
+
+lsquid:S4488„"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(İ“×¹ıÿÿÿÿ8ÿ«×–-
+fsquid:S4488L"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ê¨”8ÿ«×–-
+wsquid:S1488x"`Immediately return this expression instead of assigning it to the temporary variable "messages".(‡°¼Â
+nsquid:S4488»"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ıæÏ¤ıÿÿÿÿ8ÿ«×–-
+csquid:S1192*"GDefine a constant instead of duplicating this literal "openid" 8 times.(¢ÃüÃøÿÿÿÿ
+nsquid:S4488œ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÇŸïùÿÿÿÿ8ÿ«×–-
+fsquid:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ãº–¥8ÿ«×–-
+osquid:S00117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë‹ë¢üÿÿÿÿ
+zsquid:S1488C"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÚÕ¦ëÿÿÿÿÿ
+osquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ÒœĞ†ùÿÿÿÿ8ÿÆù×–-
+osquid:UselessImportCheck"FRemove this unused import 'com.waimai.service.common.WaimaiRecommend'.(Ü”ıÆûÿÿÿÿ
+`squid:UselessImportCheck"<Remove this unused import 'com.waimai.constants.SearchType'.(“õï§
+qsquid:UselessImportCheck"HRemove this unused import 'com.waimai.context.SpringApplicationContext'.(Ñô°¼ùÿÿÿÿ
+{squid:S1149>"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(›Óğşÿÿÿÿ8²å×–-
+msquid:S44888"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(›—¥Âùÿÿÿÿ8ÿ«×–-
+ksquid:S4488q"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(²¾ÖÎúÿÿÿÿ8ÿ«×–-

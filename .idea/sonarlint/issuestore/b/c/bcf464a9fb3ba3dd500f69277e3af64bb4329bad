@@ -1,0 +1,7 @@
+
+psquid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(“×Ò 
+>squid:S14818"'Remove this unused "id" local variable.(¤ûšƒ
+?squid:S14816"(Remove this unused "map" local variable.(“×Ò 
+Nsquid:S18546"7Remove this useless assignment to local variable "map".(“×Ò 
+Msquid:S18548"6Remove this useless assignment to local variable "id".(¤ûšƒ
+msquid:UselessImportCheck"DRemove this unused import 'com.mysql.cj.mysqlx.protobuf.MysqlxCrud'.(Û¼Å¯ýÿÿÿÿ

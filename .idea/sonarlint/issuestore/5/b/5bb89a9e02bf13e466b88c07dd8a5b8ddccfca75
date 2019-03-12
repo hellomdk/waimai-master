@@ -1,0 +1,18 @@
+
+nsquid:S001176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õß¥·ùÿÿÿÿ
+wsquid:UselessImportCheck"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë
+isquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÕ„Õ
+nsquid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ
+{squid:UselessImportCheck"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ğÿûÿÿÿÿ
+Wsquid:S1854:";Remove this useless assignment to local variable "address".(€Ì¸Úûÿÿÿÿ
+Gsquid:S1481M"+Remove this unused "result" local variable.(º‘ù“ùÿÿÿÿ
+Hsquid:S1481:",Remove this unused "address" local variable.(€Ì¸Úûÿÿÿÿ
+T
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ÔåŸ’úÿÿÿÿ
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Çƒ £
+Vsquid:S1854M":Remove this useless assignment to local variable "result".(º‘ù“ùÿÿÿÿ
+isquid:S00117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÕ„Õ
+Zsquid:S1155`">Use isEmpty() to check whether the collection is empty or not.(–ûÿÿÿÿ
+nsquid:S00116("VRename this field "template_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì˜£æ
+3squid:S1643D"Use a StringBuilder instead.(Ğ¨Ñ“
